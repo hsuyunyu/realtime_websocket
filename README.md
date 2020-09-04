@@ -18,7 +18,7 @@ Learning about realtime webstock
 ## Images
 
 ![image]
-(https://github.com/hsuyunyu/realtime_websocket/blob/master/image/demo_part2.png)
+(https://github.com/hsuyunyu/realtime_websocket/blob/master/image/demo_part2.png?raw=true)
 
 
 
