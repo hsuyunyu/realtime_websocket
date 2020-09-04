@@ -17,7 +17,7 @@ Learning about realtime webstock
 
 ## Images
 
-![This is a demo part2.] (image/demo_part2.png)
+![This is a demo part2.] (/image/demo_part2.png)
 
 
 
