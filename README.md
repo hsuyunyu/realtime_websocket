@@ -17,17 +17,7 @@ Learning about realtime webstock
 
 ## Images
 
-![GitHub Logo](/images/demo_part2.png)
-Format: ![Alt Text](url)
-
-![image]
-(https://github.com/hsuyunyu/realtime_websocket/blob/master/image/demo_part2.png?raw=true)
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
-![PongDeterministic-v4](images/demo_part2.png)
-
-
+![demo_part2](images/demo_part2.png)
 
 
 ## Reference
